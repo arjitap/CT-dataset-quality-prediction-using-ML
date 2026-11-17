@@ -1,12 +1,8 @@
 
 # CT Dataset Quality Prediction Using Machine Learning
 
-**Course:** Fundamentals of AI & ML (PHC-351)  
-**Instructor:** Prof. Mayank Goswami  
+ 
 **Presenter:** Arjita Pathak  
-**Enrollment Number:** 24123008
-
----
 
 ## 1. Executive Summary
 
@@ -451,24 +447,3 @@ Although the developed framework demonstrates an automated approach to CT datase
 
 ---
 
-## 10. Academic Metadata & Citation
-
-**Project Title:** CT Dataset Quality Prediction Using Machine Learning
-
-**Course:** Fundamentals of AI & ML (PHC-351)
-
-**Instructor:** Prof. Mayank Goswami
-
-**Name:** Arjita Pathak
-
-**Enrollment Number:** 24123008
-
-
-
-This project has been developed for academic evaluation as part of the course Fundamentals of AI & ML (PHC-351).
-
-All project code and materials are shared with consent for public academic review and evaluation.
-
----
-
-**End of Documentation**
