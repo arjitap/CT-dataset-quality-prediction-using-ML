@@ -1,0 +1,27 @@
+{
+  "dataset_id": "proto_015",
+  "seed": 1014,
+  "recipe_name": "compound_triad",
+  "defect_parameters": {
+    "name": "compound_triad",
+    "drop_fraction": 0.05,
+    "drift_severity": 0.2,
+    "noise_sigma": 0.03,
+    "clip_percentile": 5.0
+  },
+  "ground_truth_score": 62.67,
+  "ground_truth_grade": "caution",
+  "penalty_breakdown": {
+    "p_drop": 13.33,
+    "p_noise": 6.25,
+    "p_drift": 10.0,
+    "p_clip": 6.67,
+    "p_compound": 1.08
+  },
+  "volume_shape": [
+    61,
+    128,
+    128
+  ],
+  "acquired_slice_count": 61
+}

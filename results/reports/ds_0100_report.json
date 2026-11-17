@@ -1,0 +1,21 @@
+{
+  "dataset_file": "ds_0100.npz",
+  "predicted_grade": "CAUTION",
+  "predicted_score": 78.3,
+  "class_probabilities": {
+    "accept": 0.1194,
+    "caution": 0.8806
+  },
+  "acquired_slices": 59,
+  "volume_dimensions": [
+    59,
+    128,
+    128
+  ],
+  "key_indicators": {
+    "missing_slices": 5,
+    "noise_mad_estimate": 0.0788,
+    "drift_slope": -7e-05,
+    "adjacent_ssim_mean": 0.8008
+  }
+}

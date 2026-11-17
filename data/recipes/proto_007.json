@@ -1,0 +1,27 @@
+{
+  "dataset_id": "proto_007",
+  "seed": 1006,
+  "recipe_name": "noise_mild",
+  "defect_parameters": {
+    "name": "noise_mild",
+    "drop_fraction": 0.0,
+    "drift_severity": 0.0,
+    "noise_sigma": 0.03,
+    "clip_percentile": 0.0
+  },
+  "ground_truth_score": 93.75,
+  "ground_truth_grade": "accept",
+  "penalty_breakdown": {
+    "p_drop": 0.0,
+    "p_noise": 6.25,
+    "p_drift": 0.0,
+    "p_clip": 0.0,
+    "p_compound": 0.0
+  },
+  "volume_shape": [
+    64,
+    128,
+    128
+  ],
+  "acquired_slice_count": 64
+}

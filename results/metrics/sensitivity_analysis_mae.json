@@ -1,0 +1,30 @@
+[
+  {
+    "Regime \/ Severity Group":"clean",
+    "Mean Absolute Error (pts)":0.042775472
+  },
+  {
+    "Regime \/ Severity Group":"clip_only",
+    "Mean Absolute Error (pts)":0.0484502835
+  },
+  {
+    "Regime \/ Severity Group":"compound_drift_clip",
+    "Mean Absolute Error (pts)":0.6599838534
+  },
+  {
+    "Regime \/ Severity Group":"compound_drift_noise",
+    "Mean Absolute Error (pts)":0.7453039551
+  },
+  {
+    "Regime \/ Severity Group":"drift_only",
+    "Mean Absolute Error (pts)":0.4693459903
+  },
+  {
+    "Regime \/ Severity Group":"drop_only",
+    "Mean Absolute Error (pts)":2.7128429328
+  },
+  {
+    "Regime \/ Severity Group":"noise_only",
+    "Mean Absolute Error (pts)":0.2873626912
+  }
+]

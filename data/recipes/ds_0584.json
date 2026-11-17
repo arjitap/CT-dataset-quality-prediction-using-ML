@@ -1,0 +1,28 @@
+{
+  "dataset_id": "ds_0584",
+  "base_phantom_id": 3,
+  "seed": 2583,
+  "defect_regime": "unseen_noise_drop",
+  "defect_parameters": {
+    "regime": "unseen_noise_drop",
+    "drop_fraction": 0.04,
+    "drift_severity": 0.0,
+    "noise_sigma": 0.03,
+    "clip_percentile": 0.0
+  },
+  "ground_truth_score": 82.42,
+  "ground_truth_grade": "accept",
+  "penalty_breakdown": {
+    "p_drop": 10.67,
+    "p_noise": 6.25,
+    "p_drift": 0.0,
+    "p_clip": 0.0,
+    "p_compound": 0.67
+  },
+  "volume_shape": [
+    61,
+    128,
+    128
+  ],
+  "acquired_slice_count": 61
+}

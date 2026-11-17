@@ -1,0 +1,7 @@
+configuration,features_used,test_accuracy,macro_f1,f1_drop
+Full Feature Set (All 25),25,100.0,1.0,0.0
+Omit Noise Features,21,100.0,1.0,0.0
+Omit Drift Features,20,100.0,1.0,0.0
+Omit SSIM / Consistency,21,100.0,1.0,0.0
+Omit Completeness / Drops,23,97.62,0.9744,0.0256
+Omit Clipping / Dynamic Range,22,100.0,1.0,0.0

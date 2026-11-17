@@ -1,0 +1,27 @@
+{
+  "dataset_id": "proto_016",
+  "seed": 1015,
+  "recipe_name": "compound_severe_all",
+  "defect_parameters": {
+    "name": "compound_severe_all",
+    "drop_fraction": 0.1,
+    "drift_severity": 0.35,
+    "noise_sigma": 0.08,
+    "clip_percentile": 10.0
+  },
+  "ground_truth_score": 21.28,
+  "ground_truth_grade": "reject",
+  "penalty_breakdown": {
+    "p_drop": 26.67,
+    "p_noise": 16.67,
+    "p_drift": 17.5,
+    "p_clip": 13.33,
+    "p_compound": 4.56
+  },
+  "volume_shape": [
+    58,
+    128,
+    128
+  ],
+  "acquired_slice_count": 58
+}

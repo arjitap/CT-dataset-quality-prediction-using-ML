@@ -1,0 +1,14 @@
+{
+  "in_distribution_test": {
+    "accuracy": 1.0,
+    "macro_f1": 1.0,
+    "mae": 0.6573811685471304,
+    "rmse": 1.459143590989127,
+    "r2": 0.9758501948410531
+  },
+  "unseen_combination_test": {
+    "unseen_accuracy": 0.725,
+    "unseen_macro_f1": 0.3738450604122246,
+    "unseen_mae": 12.682774940490722
+  }
+}

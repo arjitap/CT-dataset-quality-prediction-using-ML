@@ -1,0 +1,27 @@
+{
+  "dataset_id": "proto_005",
+  "seed": 1004,
+  "recipe_name": "drift_mild",
+  "defect_parameters": {
+    "name": "drift_mild",
+    "drop_fraction": 0.0,
+    "drift_severity": 0.15,
+    "noise_sigma": 0.0,
+    "clip_percentile": 0.0
+  },
+  "ground_truth_score": 92.5,
+  "ground_truth_grade": "accept",
+  "penalty_breakdown": {
+    "p_drop": 0.0,
+    "p_noise": 0.0,
+    "p_drift": 7.5,
+    "p_clip": 0.0,
+    "p_compound": 0.0
+  },
+  "volume_shape": [
+    64,
+    128,
+    128
+  ],
+  "acquired_slice_count": 64
+}

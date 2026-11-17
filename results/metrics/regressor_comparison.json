@@ -1,0 +1,14 @@
+{
+  "gradient_boosting": {
+    "cv_mae_mean": 0.82,
+    "val_mae": 0.4,
+    "val_rmse": 0.94,
+    "val_r2": 0.9922
+  },
+  "xgboost": {
+    "cv_mae_mean": 0.87,
+    "val_mae": 0.39,
+    "val_rmse": 0.86,
+    "val_r2": 0.9934
+  }
+}
